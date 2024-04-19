@@ -45,13 +45,14 @@ https://github.com/DarshanVora99/Snake-Game-Python/assets/110383540/1db0a907-f3c
 To run the Snake game locally, follow these steps:
 
 1. Clone the repository:
+https://github.com/DarshanVora99/Snake-Game-Python.git
 
-git clone https://github.com/your_username/snake-game.git
 
-2.  Navigate to the project directory:
+2. Navigate to the project directory:
 cd snake-game
 
-Run the `snake_game.py` file:
+
+3. Run the `snake_game.py` file:
 python snake_game.py
 
 
